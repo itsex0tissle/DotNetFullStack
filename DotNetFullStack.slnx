@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Project Path="DotNetFullStack.BlazorHybrid/DotNetFullStack.BlazorHybrid.Shared/DotNetFullStack.BlazorHybrid.Shared.csproj" />
+  <Project Path="DotNetFullStack.BlazorHybrid/DotNetFullStack.BlazorHybrid.Web.Client/DotNetFullStack.BlazorHybrid.Web.Client.csproj" />
+  <Project Path="DotNetFullStack.BlazorHybrid/DotNetFullStack.BlazorHybrid.Web/DotNetFullStack.BlazorHybrid.Web.csproj" />
+  <Project Path="DotNetFullStack.BlazorHybrid/DotNetFullStack.BlazorHybrid/DotNetFullStack.BlazorHybrid.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
