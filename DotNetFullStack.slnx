@@ -6,5 +6,8 @@
   <Project Path="DotNetFullStack.BlazorHybrid/DotNetFullStack.BlazorHybrid/DotNetFullStack.BlazorHybrid.csproj">
     <Deploy Solution="Debug|*" />
   </Project>
+  <Project Path="DotNetFullStack.NanoFramework/DotNetFullStack.NanoFramework.nfproj" Type="11a8dd76-328b-46df-9f39-f559912d0360" Id="1103a901-691c-4dfa-96f1-c35045625c39">
+    <Deploy />
+  </Project>
   <Project Path="DotNetFullStack.ServiceDefaults/DotNetFullStack.ServiceDefaults.csproj" />
 </Solution>
