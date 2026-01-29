@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/DotNetFullStack.AppHost/tailwind.extension.json
+/DotNetFullStack.BlazorHybrid/DotNetFullStack.BlazorHybrid.Shared/wwwroot/tailwind.css
